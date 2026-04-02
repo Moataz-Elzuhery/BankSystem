@@ -1,0 +1,79 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Proj-3 Bank.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Proj-3 Bank.cpp
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Proj-3%20Bank.cpp')
+      E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Proj-3%20Bank.cpp')
+      E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Proj-3%20Bank.cpp')
+  
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\Proj-3 Bank\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Proj-3 Bank.vcxproj -> E:\Course Ai\Abo Hadhod\Part 11 (OOP)\Proj-3 Bank\x64\Debug\BankSystem.exe
